@@ -19,3 +19,4 @@ title: People Attending
 |Kat H                 |                                        |30th May  |3rd June | |
 |Ross W                |                                        |30th May  |3rd June | |
 |Tom (pioneer)         |2E0BZY                                  |30th May  |3rd June |Urn, Maybe coffee machine|
+|Frank                 |[DO7FJK](https://www.qrz.com/db/DO7FJK) |30th May  |2rd June | |
